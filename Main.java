@@ -3,7 +3,6 @@ public class Main {
     System.out.println("Hello SEMonster");
     Monster monster = new Monster();
 
-    System.out.println(monster);
-
+    System.out.println(monster);AAAAAAA
   }
 }
